@@ -230,3 +230,4 @@ build/
 nbbuild/
 nbdist/
 .nb-gradle/
+./public
