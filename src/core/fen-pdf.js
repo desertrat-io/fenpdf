@@ -54,3 +54,8 @@ export class FenPDFWriterApi extends IFenPDFApi {
 export const FenPDFReader = new FenPDFReaderApi().api;
 export const FenPDFWriter = new FenPDFWriterApi().api;
 
+class TheLeft {
+    goToTheLeft() {
+        return "the left";
+    }
+}
